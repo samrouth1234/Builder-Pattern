@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JnjGDdRW8t0=",
+  "success": true,
+  "projectFilePath": "E:\\Back-End-Developer\\Royal University of Phnom Penh\\RUPP\\C#  Programming\\C# Programming Year 4\\BuilderPattern-01\\BuilderPattern-01\\BuilderPattern-01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samrouth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Samrouth\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Samrouth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Samrouth\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

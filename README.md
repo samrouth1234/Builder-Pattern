@@ -15,6 +15,6 @@ The Builder pattern is a creational design pattern that lets you construct compl
 - Problem: Configuring a computer involves numerous components (CPU, RAM, storage, GPU, etc.), each with various options. Creating a constructor with all possible combinations would be cumbersome and lead to a "telescoping constructor" problem.
 - Solution: Use a Builder pattern.
 - Product: Computer class.
-- Builder: ComputerBuilder interface/abstract class with methods like AddCPU(), AddRAM(), AddStorage(), etc.
+- Builder: ComputerBuilder interface/abstract class with methods like AddCPU(), AddRAM(), AddDHH(), etc.
 - Concrete Builders: GamingComputerBuilder, OfficeComputerBuilder, each configuring the computer differently.
 - Director (Optional): A ComputerAssembler class that takes a ComputerBuilder and calls the appropriate methods to build a specific computer configuration.
